@@ -1,0 +1,40 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+
+
+img{
+    width: 30%;
+}
+footer{
+    background-color: #3ffff3;
+    padding: 1%;
+}
+h1{
+    font-family: 'Popping' bold ;
+    font-size: 50pt;
+    color: #0a2ff1;
+    margin-right: 10px;
+}
+.estilo1{
+
+font-family: 'Popping regular' ;
+font-size: 22,55pt;
+color: #0a2ff1;
+background-color: #eff2ff;
+}
+.estilo2{
+    font-family: 'Popping ' bold ;
+font-size: 22pt;
+color: #0a2ff1;
+background-color: #eff2ff;
+}
+button{
+    font-family: 'Popping regular';
+    font-size: 22,55pt;
+    background-color: #8a9af1;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    padding: 10px;
+}

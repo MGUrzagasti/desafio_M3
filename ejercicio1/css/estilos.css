@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@900&display=swap');
+
+.no-te-olvides {
+    font-size: 28, 11pt;
+    font-family: 'Mulish';
+    color: #04146c;
+}
+
+.parrafo {
+    margin-left: 70px;
+    width: 40%;
+}
+
+.envios {
+    font-family: 'Mulish bold';
+    font-size: 16, 17pt;
+    color: #0a2ff1;
+}
+
+p {
+    margin-left: 145px;
+
+}
+
+.recorda {
+    font-family: 'Mulish regular';
+    font-size: 14pt;
+    color: #04146c;
+}
+
+.sin {
+    font-family: 'Mulish bold';
+    font-size: 16, 17pt;
+    color: #0a2ff1;
+}
+.podes{
+    font-family: 'Mulish regular';
+    font-size: 14pt;
+    color: #04146c;
+}
+.antes{
+    font-family: 'Mulish bold';
+    font-size: 16, 17pt;
+    color: #0a2ff1;
+
+}
+.no-olvides{
+    font-family: 'Mulish regular';
+    font-size: 14pt;
+    color: #04146c;
+}
+i{
+    font-family: 'Mulish bold';
+    font-size: 45px;
+    margin-right: 15px;
+    color: #0a2ff1;
+}
+h1{
+    margin-left: 70px;
+}
